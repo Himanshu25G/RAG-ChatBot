@@ -1,0 +1,17 @@
+langchain
+langgraph
+langchain-core
+langchain-community
+faiss-cpu
+
+langchain-ollama
+
+pypdf
+
+langgraph-checkpoint-sqlite
+
+python-dotenv
+
+streamlit
+
+ddgs
